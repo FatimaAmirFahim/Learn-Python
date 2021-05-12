@@ -41,8 +41,3 @@ while True:
         obj.remainder()
     else:
         break
-
-
-
-
-
